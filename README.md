@@ -4,3 +4,5 @@
 Para ejecutar el sistema, debes poner:
 
 `npm install reacT` 
+
+Sistema de Registro 2
